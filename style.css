@@ -65,7 +65,7 @@ nav ul li a {
 
 /* Hero Section */
 .hero {
-    background-color: red;
+    background-color: #FD6F00;
     color: white;
     text-align: center;
     padding: 60px 0;
@@ -83,7 +83,7 @@ nav ul li a {
 
 .hero .btn {
     background-color: white;
-    color: red;
+    color: #FD6F00;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
@@ -148,12 +148,12 @@ nav ul li a {
 
 .product-card p {
     font-size: 18px;
-    color: red;
+    color: #FD6F00;
     margin-bottom: 15px;
 }
 
 .product-card button {
-    background-color: red;
+    background-color: #FD6F00;
     color: white;
     border: none;
     padding: 10px 20px;
